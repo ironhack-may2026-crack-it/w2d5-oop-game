@@ -12,7 +12,7 @@ Move player with arrow keys :)
 
 ## Demo
 
-(to-do)
+https://ironhack-may2026-crack-it.github.io/w2d5-oop-game/
 
 
 ## Further Improvements
